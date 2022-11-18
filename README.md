@@ -1,29 +1,29 @@
 # 1234567
 ----^
-# Program make a simple calculator
+# Program make a hard calculator
 
-# This function adds two numbers
-def add(x, y):
-    return x + y
+# This function adds three numbers
+def add(x, y, z ):
+    return x + y + z
 
-# This function subtracts two numbers
-def subtract(x, y):
-    return x - y
+# This function subtracts three numbers
+def subtract(x, y, z):
+    return x - y- -z
 
 # This function multiplies two numbers
-def multiply(x, y):
-    return x * y
+def multiply(x, y , z):
+    return x * y * z
 
 # This function divides two numbers
-def divide(x, y):
-    return x / y
+def divide(x, y , z):
+    return x / y / z
 
 
 print("Select operation.")
-print("1.Add")
-print("2.Subtract")
-print("3.Multiply")
-print("4.Divide")
+print("1.Add 3 numbers")
+print("2.Subtract 3 numbers")
+print("3.Multiply 3 numbers")
+print("4.Divide 3 numbers")
 
 while True:
     # take input from the user
