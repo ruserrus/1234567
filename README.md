@@ -10,11 +10,11 @@ def add(x, y, z ):
 def subtract(x, y, z):
     return x - y- -z
 
-# This function multiplies two numbers
+# This function multiplies three numbers
 def multiply(x, y , z):
     return x * y * z
 
-# This function divides two numbers
+# This function divides three numbers
 def divide(x, y , z):
     return x / y / z
 
